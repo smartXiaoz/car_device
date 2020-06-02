@@ -1,0 +1,9 @@
+..\obj\exti.o: ..\HARDWARE\src\EXTI.c
+..\obj\exti.o: ..\HARDWARE\inc\EXTI.h
+..\obj\exti.o: ..\SYSTEM\sys\sys.h
+..\obj\exti.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\exti.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\exti.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\exti.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\exti.o: .\CORE\information.h
+..\obj\exti.o: E:\Keil\ARM\ARMCC\Bin\..\include\string.h

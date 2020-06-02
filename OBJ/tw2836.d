@@ -1,0 +1,13 @@
+..\obj\tw2836.o: ..\TW2836\tw2836.c
+..\obj\tw2836.o: ..\TW2836\tw2836.h
+..\obj\tw2836.o: ..\SYSTEM\sys\sys.h
+..\obj\tw2836.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\tw2836.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\tw2836.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tw2836.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\tw2836.o: ..\TW2836\tw2836_tbl.c
+..\obj\tw2836.o: ..\SYSTEM\delay\delay.h
+..\obj\tw2836.o: ..\SYSTEM\usart\usart.h
+..\obj\tw2836.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\tw2836.o: .\CORE\information.h
+..\obj\tw2836.o: E:\Keil\ARM\ARMCC\Bin\..\include\string.h

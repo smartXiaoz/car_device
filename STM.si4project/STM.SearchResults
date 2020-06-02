@@ -1,0 +1,4 @@
+---- CAN_EXP Matches (3 in 1 files) ----
+CanTASK.c (APP\src) line 115 : u8 CAN_EXP(u32 ID,u8 *Dat);
+Can_Process in CanTASK.c (APP\src) : 	if(Can_Get_RXMsg(&RX_MSG))	CAN_EXP(RX_MSG.id,RX_MSG.data);
+CanTASK.c (APP\src) line 331 : u8 CAN_EXP(u32 ID,u8 *Dat)

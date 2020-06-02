@@ -1,0 +1,9 @@
+..\obj\input.o: ..\HARDWARE\src\InPut.c
+..\obj\input.o: ..\HARDWARE\inc\InPut.h
+..\obj\input.o: ..\SYSTEM\sys\sys.h
+..\obj\input.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\input.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\input.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\input.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\input.o: .\CORE\information.h
+..\obj\input.o: E:\Keil\ARM\ARMCC\Bin\..\include\string.h
