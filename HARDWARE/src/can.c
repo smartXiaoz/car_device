@@ -56,7 +56,8 @@ void DINT_CAN(void)
 //CAN_Normal_Init(1,3,14,8,0);波特率250；采样点83.333
 //CAN_Normal_Init(1,4,13,8,0);波特率250；采样点87.7777
 //返回值:0,初始化OK;
-//    其他,初始化失败;
+//其他,初始化失败;
+
 u8 CAN_Mode_Init(u8 tsjw,u8 tbs2,u8 tbs1,u16 brp,u8 mode)
 {
 	u16 i=0;
